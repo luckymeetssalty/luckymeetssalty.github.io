@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 title: "Lucky's Proposal to Salty"
 description: I hope this is a good idea
+plugins:
+  - jemoji
