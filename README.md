@@ -14,8 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 나는 가끔 우리가 처음 만날수 있게 되었던 순간들이 생각나. 양꼬치집에서 내가한 고백과 편의점 앞에서 맥주 마시면서 자기랑 했던 통화가. 그때 어쩔줄 몰라하면서 한없이 비겁해질수도 있었던 나에게 가감없이 솔직한 자기의 마음과 생각을 얘기해
 
 
-> youtubeId: rPOlakkBlj8
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=rPOlakkBlj8 %}
 
 ```markdown
 Syntax highlighted code block
