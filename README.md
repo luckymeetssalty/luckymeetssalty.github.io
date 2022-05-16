@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-안녕 내 신부:upside_down_face:,
+안녕 사랑스러운 내 신부🙃,
 
 ```markdown
 Syntax highlighted code block
