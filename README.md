@@ -13,6 +13,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 나는 가끔 우리가 처음 만날수 있게 되었던 순간들이 생각나. 양꼬치집에서 처음 내가 고백하고 편의점 앞에서 맥주 마시면서 자기랑 했던 통화들이. 그때 어쩔줄 몰라하면서 비겁해지려는 나한테 자기의 마음과 생각을 솔직하게 얘기해주어서 
 
+
+
+{% include youtubePlayer.html id=rPOlakkBlj8&ab_channel=kcraveme %}
+
 ```markdown
 Syntax highlighted code block
 
