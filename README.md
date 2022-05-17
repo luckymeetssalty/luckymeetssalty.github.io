@@ -2,7 +2,7 @@
 {% include youtubePlayer.html %}
 
 
-### Proposal
+### Propose
 
 안녕 사랑스러운 내 신부🙃,
 
