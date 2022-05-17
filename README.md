@@ -1,7 +1,8 @@
-# 동영상을 실행시켜 주세요!!!
+# Lucky's Proposal to Salty
 {% include youtubePlayer.html %}
 
-## 프러포즈
+
+### Proposal
 
 안녕 사랑스러운 내 신부🙃,
 
@@ -17,14 +18,6 @@
 세상에서 가장 류지희를 사랑하는 신랑 정규진이,
 세상에서 가장 사랑스러운 신부 류지희에게
 
+05.17.2022
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luckymeetssalty/luckymeetssalty.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
